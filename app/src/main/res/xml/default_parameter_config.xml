@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>remote_color</key>
+        <value>#FFE60889</value>
+    </entry>
+    <entry>
+        <key>is_construction</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>remote_message</key>
+        <value>Welcome to Tony's group chat!</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->

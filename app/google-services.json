@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219927908724",
+    "firebase_url": "https://tonygroupchat-e6277.firebaseio.com",
+    "project_id": "tonygroupchat-e6277",
+    "storage_bucket": "tonygroupchat-e6277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219927908724:android:5fc52843c652f1bd",
+        "android_client_info": {
+          "package_name": "com.example.tonypark.tonygroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219927908724-95ec9f8vlf57hdbcmg760pk6n6oksslb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tonypark.tonygroupchat",
+            "certificate_hash": "727c703d8528aea38b327d1cd72d176216850a03"
+          }
+        },
+        {
+          "client_id": "219927908724-0kqvm4ttoj036vdh1lg4uam1vh9g6fac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxw6qRrM8v8IV3F54NIfBaautYXTJgIJU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219927908724-0kqvm4ttoj036vdh1lg4uam1vh9g6fac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
