@@ -20,4 +20,11 @@
         android:layout_marginBottom="8dp"
         android:visibility="gone"/>
 
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/loginactivity_sign_in_button_google"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="visible" />
+
 </LinearLayout>
